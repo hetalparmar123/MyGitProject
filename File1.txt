@@ -4,5 +4,9 @@ class myclass{
 
 public static void main()
 {
+System.out.print("hello world");
+sysout();
+sysout("reverting change");
+
 }
 }
