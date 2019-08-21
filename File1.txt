@@ -1,9 +1,4 @@
 this is file 1 to write helloworld....!!!!!
 
-class myclass
-{
-          public static void main()
-          {
-               System.out.print("hello world...welcome to git");
-          }
+class myclass{
 }
