@@ -3,7 +3,7 @@ this is file 1 to write helloworld....!!!!!
 class myclass{
 
 
-private static void mymethod(String str){
+private  void mymethod(String str){
 
 system.out.print(str);
 
@@ -11,6 +11,7 @@ system.out.print(str);
 
 public static void main()
 {
-  mymethod("welcome to git");
+  myclass obj=new myclass();
+obj.mymethod("welcome to git");
 }
 }
