@@ -2,8 +2,14 @@ this is file 1 to write helloworld....!!!!!
 
 class myclass{
 
+void mymethod(){
+
+system.out.print("hello");
+
+}
+
 public static void main()
 {
-system.out.print("hello");
+
 }
 }
